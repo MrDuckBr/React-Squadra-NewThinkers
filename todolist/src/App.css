@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+.App {
+  padding: 20px;
+  
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul > li {
+  padding: 5px;
+  border-bottom: 1px solid #efefef;
+  display: flex;
+  flex-direction: row;
+}
+
+ul > li span {
+  width: 80%;
+}
+
+ul > li button {
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  
+}
+
+#todoList{
+  font-size: 30px;
+  font-family: 'New Tegomin', serif;
+  
+}
+
+#itens{
+  font-family: 'New Tegomin', serif;
+  
+}
