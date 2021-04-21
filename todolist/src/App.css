@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
 
-.App {
-  padding: 20px;
-  
-}
+
 
 ul {
   list-style: none;
@@ -29,13 +26,3 @@ ul > li button {
   
 }
 
-#todoList{
-  font-size: 30px;
-  font-family: 'New Tegomin', serif;
-  
-}
-
-#itens{
-  font-family: 'New Tegomin', serif;
-  
-}
